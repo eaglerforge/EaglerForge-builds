@@ -8,7 +8,7 @@ function isMobile() {
     return false;
   }
 }
-if(!isMobile()){alert("WARNING: This script doesn't play well with non-mobile browsers. Proceed at your own risk!")};
+if(!isMobile()){alert("WARNING: This mod doesn't play well with non-mobile browsers. Proceed at your own risk!")};
 // Hides inventory button
 window.inInventory = false;
 // Used for changing touchmove events to mousemove events
